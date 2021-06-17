@@ -6,7 +6,7 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-
 
 GAME RULES
 
-1. Two players should be able to(both sitting at the same computer)
+1. Two players should be able to play the game . (both sitting at the same computer)
 2. The board should be printed out every time a player makes a move.
 3. Input of the player position will be accepted and then symbol should be placed on the board
 4. Numpad should match to the grid on a tic-tac-toe board. i.e eg \"7\" on numpad == top left cell of the tic-tac-toe board.
