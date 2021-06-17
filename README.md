@@ -13,6 +13,11 @@ GAME RULES
 
 HOW TO PLAY THE GAME?
 - Make sure you have Jupyter Notebook installed in your local system.
+- Open "tic-tac-toe.ipynb".
 - To play the game,make sure you run all the cells above the "DRIVER CODE" cell.
 - All the necessary functions to run the game are now acive.
 - Finally, run the #DRiver Code to play and enjoy the game. 
+
+FOR DEVELOPERS-
+- I have added an addition file named "toolsWhichHelpedBuildTheProject.ipynb"
+- This file contains the programming paradims and tools which were used to build the game.
